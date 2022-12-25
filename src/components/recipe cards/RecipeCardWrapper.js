@@ -1,9 +1,10 @@
 import React from "react";
 import RecipeCard from "./RecipeCard";
+import "./RecipeCards.css";
 
 const RecipeCardWrapper = () => {
   return (
-    <div>
+    <div className="recipeWrapper">
       <RecipeCard />
     </div>
   );

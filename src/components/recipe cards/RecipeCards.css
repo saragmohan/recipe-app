@@ -26,3 +26,15 @@
     color: #171717;
     margin: 5px;
 }
+
+.recipeCard .recipeInfo{
+    color: #868585;
+    display: flex;
+    align-items: center;
+    margin:5px;
+    font-size: 14px;
+}
+
+.recipeCard .recipeInfo span{
+    margin: 0px 10px 0px 5px;
+}
